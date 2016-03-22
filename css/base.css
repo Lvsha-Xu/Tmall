@@ -1,0 +1,21 @@
+
+body,p,ul,li,h1,h2,h3,h4,h5,h6,dl,dd,form,a,button,input,ol{
+		margin:0;
+		padding:0;
+		list-style:none;
+		font-weight:normal; 
+		 font-family:"微软雅黑";
+        font-size:12px;
+}
+img{border:none;}
+/*img{
+background:url(opacity.png) no-repeat 0 0;//正常调用
+_background:none; 
+filter:progid:DXImageTransform.Microsoft.AlphaImageLo
+ader(enabled=true, sizingMethod=image,src="opacity.png");
+}*/
+a{
+   text-decoration:none;
+   color:#b0b0b0;
+   list-style:none;
+}
